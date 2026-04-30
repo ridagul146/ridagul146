@@ -22,3 +22,8 @@ I am a dedicated Computer Science student with a strong passion for solving real
 
 ### 📊 My GitHub Stats
 ![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridagul146&show_icons=true&theme=radical)
+---
+### 📂 Key Projects
+#### 💻 [Project ka Naam Yahan Likhein]
+- [Project ki ek line mein detail likhein, jaise: Python mein banaya gaya Tool]
+- **Tools:** Python, VS Code
