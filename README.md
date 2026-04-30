@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rida Gul | Computer Science Student 🚀
 
-<!--
-**ridagul146/ridagul146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | Web Development | AI Enthusiast
 
-Here are some ideas to get you started:
+I am a dedicated Computer Science student with a strong passion for solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 📍 **Location:** Rawalpindi, Pakistan
+- 📧 **Email:** [Apna Email Yahan Likhein]
+- 💼 **LinkedIn:** [Apna LinkedIn Link Dalein]
+
+---
+
+### 🛠 Technical Toolkit
+- **Languages:** C/C++, Java, Python
+- **Web & Content:** WordPress, HTML/CSS
+- **Tools:** VS Code, Canva
+
+---
+
+### 📊 My GitHub Stats
+![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridagul146&show_icons=true&theme=radical)
