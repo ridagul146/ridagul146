@@ -10,10 +10,11 @@ I believe that understanding security is the key to building safer digital syste
 
 ---
 
+
 ### 📍 About Me
 - 🏠 **Location:** Rawalpindi, Pakistan
 - 📧 **Email:** [ridagul146@gmail.com](mailto:ridagul146@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/rida-gul-911850334](https://www.linkedin.com/in/rida-gul-911850334/)
+- 💼 **LinkedIn:** [linkedin.com/in/rida-gul-911850334](https://www.linkedin.com/in/rida-gul-911850334/
 
 ---
 
@@ -66,6 +67,20 @@ I believe that understanding security is the key to building safer digital syste
 | **Internship (Networking)** | Computer Networking | - | Troubleshooting network issues, learning DNS, LAN/WAN. |
 | **Data Entry Assistant** | School | 1 Year | Maintaining accurate records and working on spreadsheets (MS Excel). |
 
+---
 
+### 🌱 Currently Learning
+- 🛡️ **Python for Cybersecurity**
+- 🌐 **Networking Fundamentals** (TCP/IP, OSI Model)
+- 🐧 **Linux Command Line** (Linux basics)
+
+---
+
+
+
+### ✨ My Motto & Vision
+> *"Stay curious. Stay secure. Keep learning."*
+
+> *"Open to internships, freelance design work, or Java development opportunities. Let’s build something great together!"*
 
 ---
