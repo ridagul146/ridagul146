@@ -14,8 +14,7 @@ I believe that understanding security is the key to building safer digital syste
 ### 📍 About Me
 - 🏠 **Location:** Rawalpindi, Pakistan
 - 📧 **Email:** [ridagul146@gmail.com](mailto:ridagul146@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/rida-gul-911850334](https://www.linkedin.com/in/rida-gul-911850334/
-
+- 💼 **LinkedIn:** [linkedin.com/in/rida-gul](https://www.linkedin.com/in/rida-gul-3b1979360/)
 ---
 
 ### 🎓 Education
